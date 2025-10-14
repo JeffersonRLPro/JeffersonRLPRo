@@ -1,4 +1,4 @@
-##Hello, I'm Jefferson Rivera-Landaverde
+## Hello, I'm Jefferson Rivera-Landaverde
 - I have been programming in Java for 4 years and Python for 3 years
 - I'm currently learning C++ in an effort to make some small video game projects
 - I'm currently looking for work this is my linkedin profile: www.linkedin.com/in/jeff-rivera-5b2811303
